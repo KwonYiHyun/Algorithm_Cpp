@@ -1,6 +1,8 @@
 {
     "files.associations": {
+        "*.php": "php",
         "queue": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "iostream": "cpp"
     }
 }
